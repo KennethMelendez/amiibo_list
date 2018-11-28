@@ -1,0 +1,13 @@
+Dto\Amiibo.class
+Exceptions\InvalidResponseException.class
+controller\Controller.class
+View\UserIO.class
+View\View.class
+Exceptions\InvalidIdException.class
+Service\ServiceDao.class
+Dao\Dao.class
+Service\ServiceDaoImpl.class
+Dao\DaoImpl.class
+main\App.class
+Exceptions\PersistanceException.class
+View\UserIOImpl.class
